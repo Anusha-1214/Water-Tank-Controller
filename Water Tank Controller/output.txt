@@ -1,0 +1,9 @@
+VCD info: dumpfile water_tank_controller.vcd opened for output.
+
+Time=0   | Water Level=00 | Source=0 | Pump=0
+Time=20  | Water Level=00 | Source=1 | Pump=1
+Time=30  | Water Level=01 | Source=1 | Pump=1
+Time=40  | Water Level=10 | Source=1 | Pump=1
+Time=50  | Water Level=11 | Source=1 | Pump=0
+Time=60  | Water Level=01 | Source=0 | Pump=0
+Time=70  | Water Level=00 | Source=0 | Pump=0
